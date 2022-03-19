@@ -1,0 +1,14 @@
+# FreeBSD Dotfiles - Openbox - autostart
+#
+# Openbox window manager autostart file.
+#
+# Copyright (c) 2022 Azrael JD.
+
+# Start compositor
+compton &
+
+# Start tint2 panel
+tint2 &
+
+# Set wallpaper
+nitrogen --restore &
