@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2022 Azrael JD.
 
-alias ls        ls -G
+alias ls        ls -aG
 alias ..        cd ..
 
 setenv	EDITOR	vi
