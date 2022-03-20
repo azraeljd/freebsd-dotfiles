@@ -7,7 +7,7 @@
 alias ls        ls -aG
 alias ..        cd ..
 
-setenv	EDITOR	vi
+setenv	EDITOR	vim
 setenv	PAGER	less
 
 if ($?prompt) then
